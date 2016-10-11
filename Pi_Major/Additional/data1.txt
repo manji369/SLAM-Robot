@@ -1,0 +1,103 @@
+gyro = 126.45 Fr = 45 Sr = 29 wen = 148
+
+Inp: C
+gyro = 133.93 Fr = 30 Sr = 101 wen = 189
+
+Inp: A
+gyro = 105.41 Fr = 35 Sr = 117 wen = 11
+
+Inp: C
+gyro = 110.01 Fr = 19 Sr = 115 wen = 42
+
+Inp: A
+gyro = 77.46 Fr = 68 Sr = 23 wen = 59
+
+Inp: C
+gyro = 80.44 Fr = 123 Sr = 18 wen = 89
+
+Inp: A
+gyro = 53.75 Fr = 50 Sr = 17 wen = 100
+
+Inp: A
+gyro = 57.2 Fr = 34 Sr = 88 wen = 141
+
+Inp: C
+gyro = 60.39 Fr = 18 Sr = 9 wen = 165
+
+Inp: C
+gyro = 28.03 Fr = 45 Sr = 3302 wen = 184
+
+Inp: C
+gyro = 2.11 Fr = 44 Sr = 22 wen = 9
+
+Inp: A
+gyro = -24.26 Fr = 75 Sr = 19 wen = 32
+
+Inp: A
+gyro = -20.3 Fr = 58 Sr = 21 wen = 75
+
+Inp: A
+gyro = -17.67 Fr = 42 Sr = 22 wen = 107
+
+Inp: C
+gyro = -15.03 Fr = 26 Sr = 19 wen = 159
+
+Inp: C
+gyro = -44.12 Fr = 26 Sr = 19 wen = 185
+
+Inp: C
+gyro = -71.83 Fr = 86 Sr = 26 wen = 0
+
+Inp: A
+gyro = -99.93 Fr = 82 Sr = 78 wen = 20
+
+Inp: A
+gyro = -97.47 Fr = 64 Sr = 30 wen = 90
+
+Inp: C
+gyro = -96.76 Fr = 47 Sr = 23 wen = 121
+
+Inp: A
+gyro = -125.49 Fr = 64 Sr = 22 wen = 142
+
+Inp: A
+gyro = -124.18 Fr = 43 Sr = 25 wen = 182
+
+Inp: C
+gyro = -122.52 Fr = 29 Sr = 27 wen = 20
+
+Inp: C
+gyro = -150.72 Fr = 28 Sr = 99 wen = 39
+
+Inp: C
+gyro = -177.7 Fr = 49 Sr = 101 wen = 67
+
+Inp: A
+gyro = 154.32 Fr = 66 Sr = 38 wen = 99
+
+Inp: A
+gyro = 156.83 Fr = 50 Sr = 100 wen = 135
+
+Inp: A
+gyro = 161.01 Fr = 34 Sr = 101 wen = 164
+
+Inp: C
+gyro = 164.16 Fr = 18 Sr = 98 wen = 198
+
+Inp: C
+gyro = 134.42 Fr = 19 Sr = 205 wen = 20
+
+Inp: C
+gyro = 107.42 Fr = 135 Sr = 113 wen = 35
+
+Inp: A
+gyro = 78.69 Fr = 77 Sr = 23 wen = 56
+
+Inp: A
+gyro = 81.17 Fr = 62 Sr = 21 wen = 93
+
+Inp: C
+gyro = 81.97 Fr = 184 Sr = 20 wen = 126
+
+Inp: A
+gyro = 53.17 Fr = 45 Sr = 68 wen = 148
